@@ -54,3 +54,22 @@ This project was developed to:
 
 ## Author
 Developed by *Krishanthan*
+
+## Screenshots
+
+### Manager Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add New Book
+
+![Add Book](screenshots/add-book.png)
+
+### Book Inventory View
+
+![Book List](screenshots/book-list.png)
+
+### Transaction Module
+
+![Transaction](screenshots/transaction.png)
+
