@@ -1,0 +1,6 @@
+Fiction
+Non-Fiction
+Mystery
+Science Fiction
+Historical
+Fantasy

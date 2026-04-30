@@ -1,0 +1,4 @@
+Manager,Manager@123,manager
+Cashier,Cashier@123,cashier
+Cashier1,Cashier@123,cashier
+Cashier2,Cashier@1234,cashier

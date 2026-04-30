@@ -1,0 +1,4 @@
+Neuromancer,William Gibson,Science Fiction,Cyberpunk,8.99,2
+The Book Thief,Markus Zusak,Historical,World War II,9.99,1
+A Game of Thrones,R.R. Martin,Mystery,Dark Fantasy,3.49,2
+Pride and Prejudice,Jane Austen,Fiction,Romance,5.55,3
